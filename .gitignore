@@ -1,0 +1,5 @@
+carrier1.csv
+carrier2.csv
+bin/
+obj/
+*.wav
